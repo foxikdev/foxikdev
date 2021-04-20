@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foxikdev
+- 👋 Hi, I’m not @foxikdev lol
 - 👀 I’m interested in development lol
 - 🌱 I’m currently learning nothing lol
 - 💞️ I’m looking to collaborate on ur mom lol
