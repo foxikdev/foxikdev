@@ -3,7 +3,7 @@
 - 👋 Hi, I’m [FoxikDev](https://foxikdev.eu/)
 - 👀 I’m interested in [development](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 I’m currently learning [Socket.IO](https://socket.io)
-- 📫 You can reach me on discord: FoxikDev#8120
+- 📫 You can reach me on discord: FoxikDev#6969
 
 [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org)
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://www.javascript.com)
