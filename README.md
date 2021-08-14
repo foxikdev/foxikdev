@@ -2,7 +2,7 @@
 ### I am developer, yes. 
 - 👋 Hi, I’m [FoxikDev](https://foxikdev.eu/)
 - 👀 I’m interested in [development](https://en.wikipedia.org/wiki/Software_development)
-- 🌱 I’m currently learning [Socket.IO](https://socket.io)
+- 🌱 I’m currently learning C#
 - 📫 You can reach me on discord: FoxikDev#6969
 
 [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org)
